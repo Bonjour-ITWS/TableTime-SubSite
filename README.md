@@ -3,13 +3,18 @@
 ![QR Code](/qr-code.png)
 
 
-[Sub-Site Demo Link](https://bonjour-itws.github.io/TableTime/)
+
+
 
 ***Main Site Info Box***:
+
+[Main Site Demo Link](https://bonjour-itws.github.io/TableTime/)
 
          -Here there will be features of the main page listed
 
 ***Micro-Site Info Box***:
+
+[Sub-Site Demo Link](https://bonjour-itws.github.io/TableTime-SubSite/)
 
         -Finalized Demo Page Features:
                 -Bootstrap/CSS used for "Drop Down" and "Fade In" Animations
@@ -27,4 +32,3 @@
                 -Prettier "Time Picker"[!]
                 -Confirmation Page for Early Checkout[!!]
                 -Fade In animation for other pages instead of drop down?? (Since each page is of the same base format)[!]
-
