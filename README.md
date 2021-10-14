@@ -1,4 +1,4 @@
-# TableTime
+# TableTime Sub-Site
 
 ![QR Code](/qr-code.png)
 
