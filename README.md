@@ -1,29 +1,15 @@
-# TableTime Sub-Site
+# TableTime
 
-![QR Code](/qr-code.png)
+-Current Status
 
 
-[Sub-Site Demo Link](https://bonjour-itws.github.io/TableTime/)
+    -Contains all of the code for the Sub-Site to be accessed from a mobile device upon scanning a Table's QR Code
+    
+    -Site currently only contains loading and fade-in animations three main buttons lack functionality (they currently point to Google but eventually will be reworked to lead to their respective site functions.)
+    
+    -Site is intended to be linked with Table Database and be able to modify it according to user specifications
+    
+    -Could potentially add local password authentication against data from JSON file and AJAX, as well as "fake" database modification (maybe Google's Firebase?)
+    
+    -Uses Bootstrap for CSS and Animations
 
-***Main Site Info Box***:
-
-         -Here there will be features of the main page listed
-
-***Micro-Site Info Box***:
-
-        -Finalized Demo Page Features:
-                -Bootstrap/CSS used for "Drop Down" and "Fade In" Animations
-                -Login Page
-                -Check-In Confirmation Page
-                -Reservation Extension + Confirmation with "Time Picker"
-                -Early Checkout Page
-                -Home button on all pages to return back to three main functions
-        
-        
-        -To add in future:
-                -Connect site to Database[!!!]
-                -Login via CAS system[!!!]
-                -Animations only load once per session to avoid annoyance and decrease user wait time before site actually functions[!!]
-                -Prettier "Time Picker"[!]
-                -Confirmation Page for Early Checkout[!!]
-                -Fade In animation for other pages instead of drop down?? (Since each page is of the same base format)[!]
